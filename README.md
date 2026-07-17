@@ -9,6 +9,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F0A39D&center=true&vCenter=true&repeat=true&width=435&lines=“𝑊𝑒𝑙𝑐𝑜𝑚𝑒+ℎ𝑜𝑚𝑒,+𝐷𝑒𝑎𝑟𝑒𝑠𝑡!”;“𝙔𝙊𝙐+ℎ𝑎𝑣𝑒+𝑠𝑡𝑢𝑚𝑏𝑙𝑒𝑑+𝑎𝑝𝑜𝑛+𝑚𝑦+𝑠𝑎𝑓𝑒𝑝𝑙𝑎𝑐𝑒”;“𝙋𝙇𝙀𝘼𝙎𝙀+𝑇𝐴𝐿𝐾.+𝑇𝑂.+𝑀𝐸.”)](https://git.io/typing-svg)
 
 <img width="500" height="273" alt="Image" src="https://github.com/user-attachments/assets/f0d2da07-862f-46ac-9c0c-07ddd632607c" />
+
+<details><summary>sᴏᴍᴇ ʟɪsᴛ</summary>
+
+🍬 ˙ 
+
+</details>
+
 <!--
 **VIENN0ISERIE/VIENN0ISERIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
