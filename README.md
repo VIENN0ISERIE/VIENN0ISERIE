@@ -1,5 +1,5 @@
 <div align="center"> 
-<img width="385" height="29" alt="Image" src="https://github.com/user-attachments/assets/3219f95b-75bb-4535-89d9-e9ed5dafd024" />
+<img width="1280" height="216" alt="Image" src="https://github.com/user-attachments/assets/2f92c51a-f99d-4b94-9287-5bbcff531442" />
 
 ![♡](https://komarev.com/ghpvc/?username=divine-strawberries&label=SWEETIES&color=dd5d66)
 
